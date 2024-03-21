@@ -20,4 +20,4 @@ The goal of this project is to develop a robust system that can forecast future 
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/crypto-portfolio-optimization.git
+git clone https://github.com/ethanfalcao/crypto-portfolio-optimization.git

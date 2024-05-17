@@ -6,7 +6,7 @@ This repository contains the implementation of a machine learning-driven system 
 
 ## Project Overview
 
-The goal of this project is to develop a robust system that can forecast future cryptocurrency price movements and optimize portfolio allocations accordingly. It leverages historical price data from CryptoGecko and Yahoo Finance, focusing on the top 20 cryptocurrencies by market capitalization.
+The goal of this project is to develop a robust system that can forecast future cryptocurrency price movements and optimize portfolio allocations accordingly. It leverages historical price data from CryptoGecko and Yahoo Finance, focusing on the top  cryptocurrencies by market capitalization.
 
 ## Key Features
 

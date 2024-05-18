@@ -1,10 +1,10 @@
 # DOW30-Portfolio-Optimization-and-Risk-Analysis
 
-This repository contains the implementation of a machine learning-driven system for cryptocurrency portfolio optimization. The project aims to dynamically adjust portfolio allocations to maximize returns and minimize risks based on predictive analytics.
+This repository contains the implementation of a machine learning-driven system for dow-30  portfolio optimization. The project aims to dynamically adjust portfolio allocations to maximize returns and minimize risks based on predictive analytics.
 
 ## Project Overview
 
-The goal of this project is to develop a robust system that can forecast future cryptocurrency price movements and optimize portfolio allocations accordingly. It leverages historical price data from CryptoGecko and Yahoo Finance, focusing on the top cryptocurrencies by market capitalization.
+The goal of this project is to develop a robust system that can forecast future dow-30 price movements and optimize portfolio allocations accordingly. It leverages historical price data from CryptoGecko and Yahoo Finance, focusing on the dow-30 by market capitalization.
 
 ## Key Features
 

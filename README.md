@@ -1,4 +1,4 @@
-# Crypto-Portfolio-Optimization-and-Risk-Analysis
+# DOW30-Portfolio-Optimization-and-Risk-Analysis
 
 This repository contains the implementation of a machine learning-driven system for cryptocurrency portfolio optimization. The project aims to dynamically adjust portfolio allocations to maximize returns and minimize risks based on predictive analytics.
 

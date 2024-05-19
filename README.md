@@ -49,6 +49,4 @@ The goal of this project is to develop a robust system that can forecast future 
    ```bash
     pip install requirements.txt
 
-    ```
-
 

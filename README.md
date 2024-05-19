@@ -44,3 +44,10 @@ The goal of this project is to develop a robust system that can forecast future 
     ```bash
     git clone https://github.com/EthanFalcao/WPI-IA-Portfolio-Optimization-and-Risk-Analysis.git
     ```
+### Install Readme
+
+```bash
+    pip install requirements.txt
+    ```
+
+

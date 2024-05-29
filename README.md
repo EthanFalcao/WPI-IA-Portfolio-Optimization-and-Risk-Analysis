@@ -4,7 +4,7 @@ This repository contains the implementation of a machine learning-driven system 
 
 ## Project Overview
 
-The goal of this project is to develop a robust system that can forecast future dow-30 price movements and optimize portfolio allocations accordingly. It leverages historical price data from CryptoGecko and Yahoo Finance, focusing on the dow-30 by market capitalization.
+The goal of this project is to develop a robust system that can forecast future dow-30 price movements and optimize portfolio allocations accordingly. It leverages historical price data from Yahoo Finance, focusing on the dow-30 by market capitalization.
 
 ## Key Features
 

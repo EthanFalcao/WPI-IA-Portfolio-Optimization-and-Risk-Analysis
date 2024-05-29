@@ -8,7 +8,7 @@ The goal of this project is to develop a robust system that can forecast future 
 
 ## Key Features
 
-- **Data Collection**: Scripts to fetch historical data for the top 20 cryptocurrencies from CryptoGecko and Yahoo Finance.
+- **Data Collection**: Scripts to fetch historical data for the top 30 Dow-Jones stocks from Yahoo Finance.
 - **Predictive Modeling**: Implementation of various machine learning models including ARIMA, LSTM, and XGBoost to predict future price movements with an emphasis on minimizing RMSE.
 - **Optimization Algorithm**: Dynamic allocation strategy using techniques like the Kelly Criterion and Mean-Variance Optimization, tailored for cryptocurrency portfolios.
 - **Risk Management**: Incorporates risk management measures such as setting maximum exposure limits and stop-loss strategies.

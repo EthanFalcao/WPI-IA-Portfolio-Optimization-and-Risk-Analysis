@@ -6,10 +6,9 @@ This repository contains the implementation of a machine learning-driven system 
 
 The goal of this project is to develop a robust system that can forecast future dow-30 price movements and optimize portfolio allocations accordingly. It leverages historical price data from Yahoo Finance, focusing on the dow-30 by market capitalization.
 
-<div style="text-align: center;">
-### Maximizes Returns While Minimizing Risk
-</div>
-
+ 
+###                                                 Maximizes Returns While Minimizing Risk
+ 
 ## Key Features
 
 - **Data Collection**: Scripts to fetch historical data for the top 30 Dow-Jones stocks from Yahoo Finance.

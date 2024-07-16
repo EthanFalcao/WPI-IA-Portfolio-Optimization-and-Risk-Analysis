@@ -5,3 +5,4 @@ session_info ==1.0.0
 yfinance == 0.2.38
 scikit-learn
 seaborn
+finnhub-python
